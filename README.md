@@ -6,7 +6,7 @@ This project presents the successful implementation of data analysis techniques 
 
 The analysis encompasses data cleaning, exploratory data analysis (EDA), and the application of various data visualization methods to tell a compelling, data-driven story. By exploring factors such as pricing, neighborhood, and amenities, this project provides valuable insights for Airbnb hosts, investors, and stakeholders in the real estate and hospitality sectors.
 
-Key Objectives
+# Key Objectives
 
 Through extensive investigation of the dataset, we aimed to answer the following questions:
 
@@ -22,11 +22,11 @@ How do year-over-year comparisons reflect changes in the Airbnb market in Toront
 Host Performance:
 What aspects of the Airbnb platform affect hosts’ reviews and performance? Do top-rated hosts share common traits? Are there differences between hosts with few vs. many listings? (Xiao)
 
-Motivation
+# Motivation
 
 Airbnb has become a global phenomenon, transforming urban rental markets. While it provides opportunities for hosts and investors, it has also impacted housing affordability and urban life. Understanding Airbnb trends in Toronto, one of Canada’s most popular cities, is essential to evaluate investment opportunities, host strategies, and market dynamics.
 
-Methodology
+# Methodology
 
 Our approach combined business insight with technical data analysis:
 
@@ -45,7 +45,7 @@ Compared Toronto’s Airbnb market with other Canadian cities like Ottawa to und
 Host Analysis:
 Explored how reviews, number of listings, and host characteristics affect performance and guest satisfaction.
 
-Key Insights
+# Key Insights
 
 Neighborhood and property type significantly influence pricing.
 
@@ -55,7 +55,7 @@ Toronto’s Airbnb market has unique characteristics compared with other Canadia
 
 Year-over-year trends reveal market growth and fluctuations, highlighting investment risks and opportunities.
 
-Technologies & Tools
+# Technologies & Tools
 
 Python: Pandas, NumPy for data manipulation
 
